@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Finger Speed</string>
+    <string name="timer_text">Time</string>
+    <string name="a_thousand">1000</string>
+    <string name="button_text">Tap!</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_start">Start</string>
+    <string name="alert_title">Are you sure you want to exit?</string>
+    <string name="alter_message">Congratulations</string>
+    <string name="won_title">Congratulations you won!</string>
+    <string name="lost_title">Unfortunately you lost.</string>
+    <string name="reset_game">Would you like to reset the game?</string>
+</resources>
